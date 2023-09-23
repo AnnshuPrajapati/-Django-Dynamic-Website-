@@ -1,1 +1,1 @@
-# -Django-Dynamic-Website-
+# Django-Dynamic-Website
